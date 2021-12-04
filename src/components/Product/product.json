@@ -1,0 +1,97 @@
+[
+    {
+        "id": "abc",
+        "brand": "AmorMente",
+        "name": "Woven Beanie Cap Cap",
+        "priceAfterDiscount": 985,
+        "mrp": 2325,
+        "discount": 57,
+        "sizeAvailable": [
+            "S",
+            "M"
+        ],
+        "idealFor":[
+            "Women"
+        ],
+        "productImg": "https://rukminim1.flixcart.com/image/581/697/ki6bgcw0-0/cap/m/6/5/free-girls-cap-with-neck-scarf-amormente-original-imafyf2zagduy9fe.jpeg?q=50"
+    },
+    {
+        "id": "abd",
+        "brand": "TRIPR",
+        "name": "Cotton Polyester",
+        "priceAfterDiscount": 861,
+        "mrp": 2499,
+        "discount": 65,
+        "sizeAvailable": [
+            "L"
+        ],
+        "idealFor":[
+            "Men"
+        ],
+        "productImg":"https://rukminim1.flixcart.com/image/581/697/kt0enww0/fabric/r/v/t/no-2-35-m-unstitched-na-romantic-trijal-fab-original-imag6g3a88sy6fff.jpeg?q=50"
+    },
+    {
+        "id": "abe",
+        "brand": "Trijal Fab",
+        "name": "FlexiMaa",
+        "priceAfterDiscount": 690,
+        "mrp": 1499,
+        "discount": 53,
+        "sizeAvailable": [
+            "M"
+        ],
+        "idealFor":[
+            "Women"
+        ],
+        "productImg": "https://rukminim1.flixcart.com/image/581/697/kj8wccw0-0/kurta/w/e/u/m-001-peach-kurti-sanjari-original-imafyvywjfz7ufee.jpeg?q=50"
+
+    },
+    {
+        "id": "abf",
+        "brand": "Eyebogler",
+        "name": "Full Sleeve Solid Men Quilte",
+        "priceAfterDiscount": 785,
+        "mrp": 2325,
+        "discount": 57,
+        "sizeAvailable": [
+            "M",
+            "L"
+        ],
+        "idealFor":[
+            "Women"
+        ],
+        "productImg":"https://rukminim1.flixcart.com/image/581/697/kflftzk0/jacket/w/r/f/xl-12126fk-breil-by-fort-collins-original-imafwyyghuruzbue.jpeg?q=50"
+    },
+    {
+        "id": "abg",
+        "brand": "Breil By Fort Colins",
+        "name": "Full Sleeve Solid Men Quilte",
+        "priceAfterDiscount": 985,
+        "mrp": 2325,
+        "discount": 57,
+        "sizeAvailable": [
+            "M",
+            "L"
+        ],
+        "idealFor":[
+            "Men"
+        ],
+        "productImg":"https://rukminim1.flixcart.com/image/581/697/kgsb1jk0/cap/h/y/g/free-stylish-black-balkalova-cap-fashlook-original-imafwy64umkfsefu.jpeg?q=50"
+    },
+    {
+        "id": "abh",
+        "brand": "Breil By Fort Colins",
+        "name": "Full Sleeve Solid Men Quilte",
+        "priceAfterDiscount": 985,
+        "mrp": 2325,
+        "discount": 57,
+        "sizeAvailable": [
+            "M",
+            "L"
+        ],
+        "idealFor":[
+            "Women"
+        ],
+        "productImg":"https://rukminim1.flixcart.com/image/581/697/kiyw9e80/jacket/j/8/y/m-maw20jkt105a-metronaut-original-imafyngptzfmtasy.jpeg?q=50"
+    }
+]
