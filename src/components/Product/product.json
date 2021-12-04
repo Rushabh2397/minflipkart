@@ -65,7 +65,7 @@
     {
         "id": "abg",
         "brand": "Breil By Fort Colins",
-        "name": "Full Sleeve Solid Men Quilte",
+        "name": "Full Sleeve Quilte",
         "priceAfterDiscount": 985,
         "mrp": 2325,
         "discount": 57,
@@ -81,7 +81,7 @@
     {
         "id": "abh",
         "brand": "Breil By Fort Colins",
-        "name": "Full Sleeve Solid Men Quilte",
+        "name": "Men Quilte",
         "priceAfterDiscount": 985,
         "mrp": 2325,
         "discount": 57,
@@ -90,7 +90,7 @@
             "L"
         ],
         "idealFor":[
-            "Women"
+            "Men"
         ],
         "productImg":"https://rukminim1.flixcart.com/image/581/697/kiyw9e80/jacket/j/8/y/m-maw20jkt105a-metronaut-original-imafyngptzfmtasy.jpeg?q=50"
     }
